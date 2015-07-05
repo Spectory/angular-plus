@@ -2,7 +2,7 @@
 
 ## Angular awesome-if
 
-```
+```html
 <include-directive 
   awesome-if="should_show" 
   template="platforms/connections"> <!-- rails template -->
