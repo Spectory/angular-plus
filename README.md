@@ -14,13 +14,13 @@ not shown(i.e detaches it). It's the same as ng-if, but without the overhead of 
 It's not recreated and as such, to be aware that your controller has been reshown use the following:
 
 ```javascript
-  $scope.$parent.restart = function () {
-    $scope.init();
-  };
+$scope.$parent.restart = function () {
+  $scope.init();
+};
 
-  $scope.$parent.stop = function () {
-    ...
-  };  
+$scope.$parent.stop = function () {
+
+};  
 ```
 
 
