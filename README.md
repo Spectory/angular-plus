@@ -1,6 +1,4 @@
-# angular-plus
-
-## Angular awesome-if
+# Angular awesome-if
 
 ```html
 <include-directive 
